@@ -1,0 +1,3 @@
+[submodule "themes/jagu"]
+	path = themes/jagu
+	url = https://github.com/jagu-sayan/hexo-jagu.git
