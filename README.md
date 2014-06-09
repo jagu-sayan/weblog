@@ -1,6 +1,6 @@
 # My Weblog
 
-You can see the generated files at [jagu-sayan/jagu-sayan](https://github.com/jagu-sayan/jagu-sayan.git) repository.
+You can see the generated files at [jagu-sayan/jagu-sayan.github.io](https://github.com/jagu-sayan/jagu-sayan.github.io) repository.
 
 ## Getting started
 
